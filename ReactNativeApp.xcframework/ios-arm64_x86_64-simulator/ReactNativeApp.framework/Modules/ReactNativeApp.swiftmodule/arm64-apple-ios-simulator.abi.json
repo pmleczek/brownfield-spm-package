@@ -60,53 +60,6 @@
             "accessorKind": "get"
           }
         ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "InternalClassForBundle",
-        "printedName": "InternalClassForBundle",
-        "children": [
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "InternalClassForBundle",
-                "printedName": "ReactNativeApp.InternalClassForBundle",
-                "usr": "s:14ReactNativeApp22InternalClassForBundleC"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:14ReactNativeApp22InternalClassForBundleCACycfc",
-            "mangledName": "$s14ReactNativeApp22InternalClassForBundleCACycfc",
-            "moduleName": "ReactNativeApp",
-            "implicit": true,
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:14ReactNativeApp22InternalClassForBundleC",
-        "mangledName": "$s14ReactNativeApp22InternalClassForBundleC",
-        "moduleName": "ReactNativeApp",
-        "isOpen": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
       }
     ],
     "json_format_version": 8

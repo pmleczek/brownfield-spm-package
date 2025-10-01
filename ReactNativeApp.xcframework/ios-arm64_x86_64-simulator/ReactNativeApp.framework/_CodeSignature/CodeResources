@@ -10,19 +10,19 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		d/dxlq+89G/cRMvPpjHgz2CuYyw=
+		tCzma9qxnKsqCM8hN5/q1l63sTk=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		vCREHgpy1GMHxUKK5O8knmZ8KhY=
+		xY04WS3iOi7bsQ9BVnbUQT9WKT0=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pjnI8KqfVZ3HFFTWVDOTzh5IMIQ=
+		loWv8ISlF2wQzPSTDsSmFqLamoY=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UTTQdYlg9qz4wEyYUWyjvnNXyhs=
+		cR7+g2AWq3e6EWt4xfQIjSOPF4o=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UTTQdYlg9qz4wEyYUWyjvnNXyhs=
+		cR7+g2AWq3e6EWt4xfQIjSOPF4o=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7DFsnxe+CSuYtZvduWKHox55cN0=
+		rukrWNSRGcFEzxqKhmOcJqSl+ic=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pjnI8KqfVZ3HFFTWVDOTzh5IMIQ=
+		loWv8ISlF2wQzPSTDsSmFqLamoY=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		I0iJRWu1pO5pFE3EUA/i29o4oSo=
+		LxZpqBkuZjimSJe/4HhWQEXft0w=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		I0iJRWu1pO5pFE3EUA/i29o4oSo=
+		LxZpqBkuZjimSJe/4HhWQEXft0w=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QEEjTPZooaN5u+ZhHgdwBrBbD5I=
+		5xvUWihNj6dK7uqdEz26wmOrn9Y=
 		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
@@ -76,6 +76,14 @@
 		<data>
 		dxJQFdQ77efnBkB0VBZmuIamJ4g=
 		</data>
+		<key>assets/node_modules/@react-native/new-app-screen/src/assets/react-dark.png</key>
+		<data>
+		B/vQku/CH1QDp9mhBElAqM87/ws=
+		</data>
+		<key>assets/node_modules/@react-native/new-app-screen/src/assets/react-light.png</key>
+		<data>
+		Qq/ODk0w1rkXIMbK4RGBxE3hXDA=
+		</data>
 		<key>boost_privacy.bundle/Info.plist</key>
 		<data>
 		19nxWM1UuNc7NHXu6EZivn9wWGk=
@@ -84,6 +92,10 @@
 		<data>
 		VfFNLfKwdUIw3g3VFm1M2FXPDDo=
 		</data>
+		<key>main.jsbundle</key>
+		<data>
+		YJvFruwV8wxndgnsMJbqSIqgNHU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -91,28 +103,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			smjc1z4jKy08shWehsWnUSeEKUtVfojXhJ6zCsxvYQ8=
+			i13BzlbCAIuhYvc7zq4z+Y949irEaj6DsZMDM8hTWgc=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VtB3sVyd1C0iQrJI4J9nriLMHTmNSednfP+Cy9KRgXU=
+			pDTdxF9XVxMmVE+irnNFyaYvZWZnKAEFtRulnCH/84Q=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			00mtHbc77SJe4bDzyKTwzw0KJ7SSIMCkIcLGo08gWvM=
+			mtVQJW46hQx+Ywkqh9TcHAGtwtMthR0OylWybUShUlQ=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ux5HtAOnpkFmSW4TtbPhzgNdaVxd8KBm09qySYYv/8=
+			Bjm9OO205e3QU+4afznSwkn12L5Vu8s9mHtBAnL3ocs=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -126,28 +138,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ux5HtAOnpkFmSW4TtbPhzgNdaVxd8KBm09qySYYv/8=
+			Bjm9OO205e3QU+4afznSwkn12L5Vu8s9mHtBAnL3ocs=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SP7wVere3EfrbPMa4/uGpuon6u4guVKoAlFhwceP4KQ=
+			deiWvzhddS9op11v8bZ+K7gL1hoal6F8DLa4fonN1rA=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			00mtHbc77SJe4bDzyKTwzw0KJ7SSIMCkIcLGo08gWvM=
+			mtVQJW46hQx+Ywkqh9TcHAGtwtMthR0OylWybUShUlQ=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqnBN9kj9mdxqMpKDjSUU8OP1434l2GUzTGCh/MJR5c=
+			/aNwuExVMLo8a7X3t/XcVup5sSUTXvQzjKttP8G8tU4=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -161,14 +173,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqnBN9kj9mdxqMpKDjSUU8OP1434l2GUzTGCh/MJR5c=
+			/aNwuExVMLo8a7X3t/XcVup5sSUTXvQzjKttP8G8tU4=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GYYfjdNIeTxGTlIzEWXvy70uOEGNyOi1nXT35PoYPVs=
+			SqezbwNZ2B4SkWnbj0+MSA5GixXkGg/h1iyz139GUDI=
 			</data>
 		</dict>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
@@ -206,6 +218,20 @@
 			BYfRVcVqb08GR+vGtqC9AmYVzWEO6PIJqXhrealq0zU=
 			</data>
 		</dict>
+		<key>assets/node_modules/@react-native/new-app-screen/src/assets/react-dark.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fsn12aB24fpjRAJKUuFcWPcYrXRefPTUMpBq5VSmtp4=
+			</data>
+		</dict>
+		<key>assets/node_modules/@react-native/new-app-screen/src/assets/react-light.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Jd8KCtAw0+XNybLZXQquXAbOGHbQagblB7H4ESvM908=
+			</data>
+		</dict>
 		<key>boost_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -218,6 +244,13 @@
 			<key>hash2</key>
 			<data>
 			5wUXo93dntMCmnKYECVjRuyg8/9w3EK+XOVXg6u4b/I=
+			</data>
+		</dict>
+		<key>main.jsbundle</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I+vw2z07hVUyWPpMvY8qjbBWR1uCn6tMrc5/r/k6lHQ=
 			</data>
 		</dict>
 	</dict>

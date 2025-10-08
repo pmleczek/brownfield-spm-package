@@ -22,15 +22,15 @@
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		eiRLzs/lqIkCejZ5MJIzvyCePHw=
+		uPY2p3snzlVW3fejFAGkmis3vHo=
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YZtUPm9V97OO9ZPAeTXFbC6gKRc=
+		A9YdVz7agofo78G8Mrcgj3CCm38=
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		o8tigzHupQ4WZO5sulhbzVWyjUA=
+		w2MCORgR1wWkM7ESc4bimAFYhNw=
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MsRsJdzNDnMvm4hOBEDIwHJ/e1I=
+		oTbvZt6UjeyEqSw8TZpMkHsCD+4=
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		o8tigzHupQ4WZO5sulhbzVWyjUA=
+		w2MCORgR1wWkM7ESc4bimAFYhNw=
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/ReactBrownfield.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6GH9sb47ALWyookc6EYMIja6qYg=
+		EYper6SVoxDOaxDBn6S7uimqLp0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,21 +100,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YKX0MY/+Uv1G4DmnXwhg+bfrbgXPwvHZ6TvhKxNL98Y=
+			TCQntegXSV+iebc4Ni1kvcuCx682xAVYBaPg53FYl9g=
 			</data>
 		</dict>
 		<key>Modules/ReactBrownfield.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+r+69p6hQs3xyacuFMYHDnH1bkd2SG+/GEbLqyBQDkM=
+			8SfW2XA+O7az/EqnPkVE42E8ecEWN5YpzOZFo2epldA=
 			</data>
 		</dict>
 		<key>Modules/ReactBrownfield.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HI6l9WAHlqLfZP56NAdqvhcxS0M8swxk4NG2XXKyzWo=
+			dMs9psmFluKIJxwv11SbN7xQXkSxjqUnnqw+nI175s4=
 			</data>
 		</dict>
 		<key>Modules/ReactBrownfield.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -142,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSkk+IxhzJyvSmECEH7mzxAjhwdz43IiSiK1V8z30dw=
+			lc0oYPXbiZwWLGIgdvfajmx0hI6S1E3TLMfnRpfn/F4=
 			</data>
 		</dict>
 		<key>Modules/ReactBrownfield.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HI6l9WAHlqLfZP56NAdqvhcxS0M8swxk4NG2XXKyzWo=
+			dMs9psmFluKIJxwv11SbN7xQXkSxjqUnnqw+nI175s4=
 			</data>
 		</dict>
 		<key>Modules/ReactBrownfield.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -177,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vEBs+rCQd3+0XG3yXzuiPbm1ZhftrNEGLo+ZvCVLSmU=
+			U4qnxjZf1kA/WMFmEsHcAalLsdSHNzoMlcQO/qyDgGw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "ReactNativeApp",
-            targets: ["ReactNativeApp", "ReactBrownfield"]
+            targets: ["ReactNativeApp", "ReactBrownfield", "hermes"]
         ),
     ],
     targets: [
@@ -20,6 +20,10 @@ let package = Package(
         .binaryTarget(
             name: "ReactBrownfield",
             path: "./ReactBrownfield.xcframework"
+        ),
+        .binaryTarget(
+            name: "hermes",
+            path: "./hermes.xcframework"
         ),
     ]
 )

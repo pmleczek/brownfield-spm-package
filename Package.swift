@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "ReactNativeApp",
-            targets: ["ReactNativeApp"]
+            targets: ["ReactNativeApp", "ReactBrownfield"]
         ),
     ],
     targets: [

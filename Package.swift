@@ -16,11 +16,11 @@ let package = Package(
         .binaryTarget(
             name: "ReactNativeApp",
             path: "./ReactNativeApp.xcframework"
-        )
+        ),
         .binaryTarget(
             name: "ReactBrownfield",
             path: "./ReactBrownfield.xcframework"
-        )
+        ),
     ]
 )
 

@@ -1700,63 +1700,63 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 210,
       "length": 7,
       "value": "\"index\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 15,
       "value": "\"main.jsbundle\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 1243,
       "length": 7,
       "value": "\"index\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 15,
       "value": "\"main.jsbundle\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 4441,
       "length": 25,
       "value": "\"PopToNativeNotification\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeBrownfield.swift",
       "kind": "StringLiteral",
       "offset": 4616,
       "length": 40,
       "value": "\"TogglePopGestureRecognizerNotification\""
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
       "kind": "Dictionary",
       "offset": 243,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
       "kind": "Dictionary",
       "offset": 823,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/var\/folders\/ww\/0sybn_q92gd5v0k1dm2lby8c0000gn\/T\/eas-build-local-nodejs\/d56fc4c1-3e57-4fd0-9fd9-2ad37a68ff56\/build\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
+      "filePath": "\/Users\/patrykmleczek\/Desktop\/BrownfieldApp\/node_modules\/@callstack\/react-native-brownfield\/ios\/ReactNativeView.swift",
       "kind": "Dictionary",
       "offset": 898,
       "length": 3,

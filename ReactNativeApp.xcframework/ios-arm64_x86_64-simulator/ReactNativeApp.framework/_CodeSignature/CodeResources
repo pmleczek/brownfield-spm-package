@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		mabYS05JT9CMNbSxE5oPeV45E48=
+		KuWEv1P59S9J/F3F86zCUPZi5N8=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		d0JcvJiETCpFpydtNInrXFbba5Y=
+		h2zOettbR/SZm/PswRDXx9rK9Xs=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tCYe7/40nWRS7++NGhpmP6V+riw=
+		kf2V0wg7TbS3jN0iGQ5Ms7/hqvA=
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lyM9z+FEFUmTxyx0LnkJOfJhN7k=
+		gv4T2uVOLR/wVkUI8/9+G02rlwc=
 		</data>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		zQTzcts3IEQgR2+Wb+d++w6rK50=
+		YxZCumURxNLdyQ2hbGHgSAO1+jA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,14 +103,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xc88NP9NNU/NRu3t1MBlK+IZAdKrb7s1CpCTndvWiB4=
+			Zfm58Htz2vz8fRrDg7/n3zaQrO19uOGTkR+GsaMAcV4=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/DpTeJ3TJr06xhOiFl/l7JWkK7KvOR5Ne8XsG6rMs48=
+			25DUAppa7VfV9WL9T7VlKPe2OFTR2NUpjwGJoqexbX4=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xBg/FSVEqkmBIdepNuSZnKhm9uVYA6bVhJhHv4uOFFk=
+			rqCRUC8FPBGZ/VqWVvVTwAB3ddGHcE0GoqWGUFDmirs=
 			</data>
 		</dict>
 		<key>Modules/ReactNativeApp.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -180,7 +180,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wcnBAtm+X6SHDuKbbPBJnOK51QhuJe54tRaNt4DrGCI=
+			msU7xDngkvdNbMz6mWJ+z/yYWs/vmgw+WIr5xj/Ia3g=
 			</data>
 		</dict>
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V+IKT1VwFPFCASAs2WiTLsRrfeiaBlG5gExXkTS+hOE=
+			9qWmvQXlGCYeGfU7E3nycC8D/nDrDEHAmx4Tfo/vt/Y=
 			</data>
 		</dict>
 	</dict>
